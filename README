@@ -1,0 +1,10 @@
+gmetric script for ganglia 2.x
+- apache.sh: apache mod_status
+- curl.sh: page response time via http
+- ganglia_gmetric.sh: start all my gmetric scripts
+- iostat.sh: iostat -d -x /dev/XXX
+- lvs.sh: number of ESTABLISHED connection via ipvsadm
+- memcached.sh: memcached status
+- mysql.sh: mysql status (number of queries)
+- nfs.sh: nfs status (nfs_getattr, nfs_read, nfs_write)
+- passenger.sh: passenger (aka mod_rails) status
