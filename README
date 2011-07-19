@@ -8,3 +8,4 @@ gmetric script for ganglia 2.x
 - mysql.sh: mysql status (number of queries)
 - nfs.sh: nfs status (nfs_getattr, nfs_read, nfs_write)
 - passenger.sh: passenger (aka mod_rails) status
+
